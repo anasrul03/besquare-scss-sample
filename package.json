@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/hamid-deriv/besquare-scss-sample#readme",
   "dependencies": {
-    "sass": "^1.58.3"
+    "sass": "^1.60.0"
   }
 }

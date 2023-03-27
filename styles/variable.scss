@@ -1,0 +1,19 @@
+$primarycolor : #202020;
+$shadow : #202020;
+$buttonHoverColor: #ffda57;
+
+@function add($a , $b ){
+
+    // @if type-of($a or $b != number){
+    // @error "Expected both of them should be number";
+    // }
+
+    @return $a + $b;
+
+}
+
+@function changeToPixel($a){
+
+    @return $a*1px;
+    
+    }
